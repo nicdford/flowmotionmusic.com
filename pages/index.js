@@ -18,7 +18,6 @@ export default function Home() {
         className={styles.main}
         style={{
           backgroundImage: `url("./Flowmotion_photo_Kevin_Lowdon.jpg")`,
-          backgroundColor: "red",
         }}
       >
         <h1 className={styles.title}>Flowmotion</h1>
