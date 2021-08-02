@@ -17,7 +17,7 @@ export default function Home() {
       <main
         className={styles.main}
         style={{
-          backgroundImage: 'url("./Flowmotion_photo_Kevin_Lowdon.jpg")',
+          backgroundImage: `url("./Flowmotion_photo_Kevin_Lowdon.jpg")`,
           backgroundColor: "red",
         }}
       >
