@@ -35,10 +35,11 @@ export default function Home() {
             <h3>Seattle Waterfront</h3>
             <p>
               {" "}
-              We're so excited to announce our first show back in over a year.
-              Join us for a FREE concert on the Seattle waterfront. Big thanks
-              to Downtown Seattle Association for hosting! Dust off them dancing
-              shoes. We're back!!! Showtime is 5:00pm, all ages welcome!
+              {`We're`} so excited to announce our first show back in over a
+              year. Join us for a FREE concert on the Seattle waterfront. Big
+              thanks to Downtown Seattle Association for hosting! Dust off them
+              dancing shoes. {`We're`} back!!! Showtime is 5:00pm, all ages
+              welcome!
             </p>
             <p>Saturday, August 7th, 2021</p>
             <p>Pier 62 Downtown</p>
