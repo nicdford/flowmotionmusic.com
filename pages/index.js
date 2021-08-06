@@ -21,7 +21,7 @@ export default function Home() {
         }}
       >
         <h1 className={styles.title}>Flowmotion</h1>
-        <p>
+        <p className={styles.shadows}>
           Follow us on{" "}
           <a href="https://www.facebook.com/Flowmotionseattle/">Facebook</a>
         </p>
