@@ -58,19 +58,19 @@ export default function Home() {
         <section className="max-w-2xl mx-auto space-y-6">
           <h2 className="text-5xl">About Flowmotion</h2>
           <p>
-            Founded with the sole mission to make people move to the music.
+            {`Founded with the sole mission to make people move to the music.
             Flowmotion is a live band experience that pushes all genre
             boundaries. Their music can harness the inspiration to unite
-            audiences from all walks through the language of music.
+            audiences from all walks through the language of music.`}
           </p>
           <p>
-            The group's typical formation starts as a 5 piece group led by
+            {`The group's typical formation starts as a 5 piece group led by
             singer-guitarist Joshua Clauson. The lineup always features drums, a
             percussionist extraordinaire, bass, lead guitar, and often times
             keyboards. Clauson assembles high-caliber musicians to indulge and
             explore live improv realms through the framework of Flowmotion
             songs. All songs lead to amoment of free-form expression in some way
-            for all.
+            for all.`}
           </p>
         </section>
 
@@ -91,12 +91,11 @@ export default function Home() {
             <li className="p-8 space-y-2 bg-gray-700 rounded-sm">
               <h3 className="text-3xl">Seattle Waterfront</h3>
               <p>
-                {" "}
-                {`We're`} so excited to announce our first show back in over a
+                {`We're so excited to announce our first show back in over a
                 year. Join us for a FREE concert on the Seattle waterfront. Big
                 thanks to Downtown Seattle Association for hosting! Dust off
-                them dancing shoes. {`We're`} back!!! Showtime is 5:00pm, all
-                ages welcome!
+                them dancing shoes. We're back!!! Showtime is 5:00pm, all
+                ages welcome!`}
               </p>
               <p className="mt-4">
                 <span className="inline-block w-20 font-bold">When:</span>
