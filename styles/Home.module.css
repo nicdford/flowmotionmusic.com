@@ -130,11 +130,6 @@
   }
 }
 
-.reader {
-  max-width: 650px;
-  padding: 8em 0;
-}
-
 .reader ul {
   list-style: none;
 }
