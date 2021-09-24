@@ -64,7 +64,9 @@ export default function Home() {
             <br />
             Bellingham, WA
             <br />
-            Ticket link coming soon.
+            <a href="https://wildbuffalo.net/#/events?event_id=46090">
+              Buy Bellingham Tickets
+            </a>
           </li>
         </ul>
         <a href="#shows">Learn More</a>
@@ -162,8 +164,11 @@ export default function Home() {
                   208 W Holly St, Bellingham, WA 98225
                 </a>
               </p>
-              <a className="inline-block px-6 pt-2 pb-3 no-underline bg-purple-600 rounded cursor-not-allowed opacity-30">
-                Ticket link coming soon
+              <a
+                href="https://wildbuffalo.net/#/events?event_id=46090"
+                className="inline-block px-6 pt-2 pb-3 no-underline bg-purple-600 rounded cursor-not-allowed opacity-30"
+              >
+                Buy Bellingham Tickets
               </a>
             </li>
           </ul>
