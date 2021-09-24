@@ -9,6 +9,7 @@ body {
   background-color: #040404;
   color: #f3f3f3;
   background-image: url("/vintage-speckles-dark.png");
+  scroll-behavior: smooth;
 }
 
 h1,

@@ -7,7 +7,8 @@
 }
 
 .main {
-  padding: 10rem 0 0;
+  /* padding: 10rem 0 0; */
+  padding: 1rem 0 0;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -54,6 +55,19 @@
   letter-spacing: 0.5em;
   text-transform: uppercase;
   text-shadow: 0 0 20px #0000004a;
+}
+
+.titleSmall {
+  margin: 0;
+  line-height: 1;
+  font-size: 2vw;
+  letter-spacing: 0.5em;
+  text-transform: uppercase;
+  text-shadow: 0 0 20px #0000004a;
+}
+
+.heroDesc {
+  font-size: 14px;
 }
 
 .shadows {
