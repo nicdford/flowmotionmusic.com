@@ -166,7 +166,7 @@ export default function Home() {
               </p>
               <a
                 href="https://wildbuffalo.net/#/events?event_id=46090"
-                className="inline-block px-6 pt-2 pb-3 no-underline bg-purple-600 rounded cursor-not-allowed opacity-30"
+                className="inline-block px-6 pt-2 pb-3 no-underline bg-purple-600 rounded"
               >
                 Buy Bellingham Tickets
               </a>
