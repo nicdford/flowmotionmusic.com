@@ -35,7 +35,7 @@ export default function Home() {
           backgroundRepeat: "no-repeat",
         }}
       >
-        <h1 className={styles.titleSmall}>Flowmotion</h1>
+        {/* <h1 className={styles.titleSmall}>Flowmotion</h1>
         <p className={styles.heroDesc}>Two Shows. One Halloween Weekend.</p>
         <ul className="mt-4 text-center">
           <li className="my-10">
@@ -69,7 +69,7 @@ export default function Home() {
             </a>
           </li>
         </ul>
-        <a href="#shows">Learn More</a>
+        <a href="#shows">Learn More</a> */}
       </main>
 
       <div className="py-32 space-y-32">
