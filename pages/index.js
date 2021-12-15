@@ -30,47 +30,18 @@ export default function Home() {
       <main
         className={styles.main}
         style={{
-          backgroundImage: `url("./Website-Halloween-Graphic.png")`,
+          backgroundImage: `url("./NYE-Web-Page.png")`,
           backgroundSize: "contain",
           backgroundRepeat: "no-repeat",
         }}
+      ></main>
+
+      <a
+        className="inline-block px-6 pt-2 pb-3 mt-4 no-underline bg-purple-600 rounded"
+        href="https://www.axs.com/events/410688/beats-antique-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001"
       >
-        {/* <h1 className={styles.titleSmall}>Flowmotion</h1>
-        <p className={styles.heroDesc}>Two Shows. One Halloween Weekend.</p>
-        <ul className="mt-4 text-center">
-          <li className="my-10">
-            <strong>
-              <FontAwesomeIcon
-                icon={faChevronLeft}
-                className="inline-block w-4 pr-2"
-              />
-              Remlinger Farms
-            </strong>
-            <br />
-            Carnation, WA
-            <br />
-            <a href="https://www.eventbrite.com/e/flowmotions-funkalicious-halloween-show-tickets-178338955617">
-              Buy Remlinger Tickets
-            </a>
-          </li>
-          <li className="my-10">
-            <strong>
-              Wild Buffalo{" "}
-              <FontAwesomeIcon
-                icon={faChevronRight}
-                className="inline-block w-4 pr-2"
-              />
-            </strong>
-            <br />
-            Bellingham, WA
-            <br />
-            <a href="https://wildbuffalo.net/#/events?event_id=46090">
-              Buy Bellingham Tickets
-            </a>
-          </li>
-        </ul>
-        <a href="#shows">Learn More</a> */}
-      </main>
+        Buy Tickets
+      </a>
 
       <div className="py-32 space-y-32">
         <section className="max-w-2xl mx-auto space-y-6">
@@ -128,47 +99,25 @@ export default function Home() {
           <h2 className="mb-8 text-5xl">Upcoming Shows</h2>
           <ul className="space-y-4">
             <li className="p-8 space-y-4 bg-gray-700 rounded-sm">
-              <h3 className="text-3xl">Remlinger Farms</h3>
+              <h3 className="text-3xl">Showbox Sodo</h3>
               <p>
                 {`Join us on Saturday for an epic halloween party at Remlinger Brewing! We'll be playing with Panda Conspiracy Horns, Mctuff, Cytrus, and Chris Poage Band. All ages, brewery & restaurant, costume contest and amazing prizes. Don't miss out!`}
               </p>
               <p className="mt-4">
                 <span className="inline-block w-20 font-bold">When:</span>
-                Saturday, October 30th, 2021
+                Friday, December 31st, 2021
               </p>
               <p>
                 <span className="inline-block w-20 font-bold">Where:</span>
-                <a href="https://www.google.com/maps/place/Remlinger+Farms/@47.6390278,-121.9022195,15z/data=!4m2!3m1!1s0x0:0x8ad9e48ae94a24b3?sa=X&ved=2ahUKEwiivOOkx5bzAhVRJTQIHbR-BjYQ_BJ6BAhyEAU">
-                  32610 NE 32nd St. Carnation, WA 98014
+                <a href="https://www.google.com/maps/place/Showbox+SoDo/@47.5879112,-122.3339439,15z/data=!4m2!3m1!1s0x0:0x61d788774d165072?sa=X&ved=2ahUKEwjX28LmkuX0AhX3IjQIHWd-DYsQ_BJ6BAhAEAU">
+                  1700 1st Ave S, Seattle, WA 98134
                 </a>
               </p>
               <a
                 className="inline-block px-6 pt-2 pb-3 no-underline bg-purple-600 rounded"
-                href="https://www.eventbrite.com/e/flowmotions-funkalicious-halloween-show-tickets-178338955617"
+                href="https://www.axs.com/events/410688/beats-antique-tickets?skin=showboxpresents&src=AEGLIVE_WSHBXSEA030115VEN001"
               >
-                Buy Remlinger Tickets
-              </a>
-            </li>
-            <li className="p-8 space-y-4 bg-gray-700 rounded-sm">
-              <h3 className="text-3xl">Wild Buffalo</h3>
-              <p>
-                {`Join us on Sunday for an awesome halloween costume contest at Wild Buffalo in Bellingham, WA. We'll be playing with Panda Conspiracy Horns, Mctuff, and Chris Poage Band. Doors open at 7pm, see you there!`}
-              </p>
-              <p className="mt-4">
-                <span className="inline-block w-20 font-bold">When:</span>
-                Sunday, October 31st, 2021
-              </p>
-              <p>
-                <span className="inline-block w-20 font-bold">Where:</span>
-                <a href="https://www.google.com/maps/place/Wild+Buffalo+House+Of+Music/@48.750798,-122.4826137,17z/data=!3m2!4b1!5s0x5485a3bc8b035087:0x5348272e967835e4!4m5!3m4!1s0x5485a3bc897c8763:0x1063d32092f14bca!8m2!3d48.750798!4d-122.480425">
-                  208 W Holly St, Bellingham, WA 98225
-                </a>
-              </p>
-              <a
-                href="https://wildbuffalo.net/#/events?event_id=46090"
-                className="inline-block px-6 pt-2 pb-3 no-underline bg-purple-600 rounded"
-              >
-                Buy Bellingham Tickets
+                Buy Tickets
               </a>
             </li>
           </ul>
